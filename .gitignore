@@ -1,2 +1,6 @@
-build
-dist
+bin/
+build/
+dist/
+run/log/
+.classpath
+.project
